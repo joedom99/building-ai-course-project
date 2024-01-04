@@ -1,8 +1,7 @@
 <!-- This is my project proposal for the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 -->
-# Project Title
-AI-Based Comparative Marketing Success Predictor for Small Businesses
+# AI-Based Comparative Marketing Success Predictor for Small Businesses
 
 ## Summary
 The "AI-Based Comparative Marketing Success Predictor for Small Businesses" is an innovative project designed to transform the marketing landscape for small businesses in the United States. This AI-driven initiative utilizes publicly available data to model and predict successful marketing strategies, providing small businesses with insights that were previously inaccessible due to resource constraints. The project aims to democratize market research, enabling small businesses to compete more effectively in their respective industries.
